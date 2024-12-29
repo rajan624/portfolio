@@ -1,31 +1,23 @@
-<h2 align="center">
-  <a href="" target="_blank"></a>
-  Portfolio <br/>
-  <a href="" target="_blank">paritosh-portfolio.vercel.app</a>
-</h2>
-<div align="center">
-<!--   <img alt="Demo" src="./Images/readme-img1.png" /> -->
-</div>
+# Rajan's Portfolio
 
-<br/>
+Welcome to my personal portfolio! This website showcases my work, skills, and experience as a developer. The portfolio is built using ReactJS and showcases my expertise in web development, including front-end technologies, responsive design, and user interfaces.
 
-## Built With
 
-My personal portfolio <a href="" target="_blank">paritosh-portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
-
-This project was built using these technologies.
-
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+My personal portfolio <a href="https://portfolio-rajan624.vercel.app/" target="_blank">Portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 ## Features
 
-**📖 Multi-Page Layout**
+- **About Me**: A brief introduction to who I am, my background, and what I do.
+- **Skills**: A list of the technologies and tools I'm proficient in, including JavaScript, ReactJS, and more.
+- **Projects**: A collection of the projects I've worked on, with descriptions and links to live demos or GitHub repositories.
+- **Contact**: A contact section with a form to reach out to me.
+- **Responsive Design**: The portfolio is fully responsive and optimized for both desktop and mobile views.
+- **Smooth Scroll**: Built-in smooth scrolling navigation for an enhanced user experience.
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+## Tech Stack
 
-**📱 Fully Responsive**
+- **ReactJS**: The core JavaScript library for building the user interface.
+- **CSS3**: For styling the portfolio, with custom styles to ensure the portfolio looks great across all devices.
+- **React Router**: For navigating between different sections of the portfolio.
+- **Axios**: For any API calls if necessary (such as for the contact form).
+- **FontAwesome**: For icons used in the UI.
